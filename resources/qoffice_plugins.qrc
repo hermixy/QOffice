@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qoffice/plugins/officewidget.xml</file>
+        <file>qoffice/plugins/officewidget.png</file>
+        <file>qoffice/plugins/officewindow.xml</file>
+    </qresource>
+</RCC>
